@@ -1,0 +1,12 @@
+# material-escolar
+pra que material escolar
+1 lapis
+2 CANETA
+3 CADERNO
+4 LAPIS DE COR 
+5 APONTADOR
+6 COMPAÇO
+7 BORRACHA
+8 COLA
+9 REGUA
+10 CADERNO DE ARTES 
